@@ -5,7 +5,9 @@ General repository of assignments' solutions and notes in relation to Coursera's
 ---
 
 ## Assignments
-* [Labs and demos for Google Cloud's training-data analyst](https://github.com/GoogleCloudPlatform/training-data-analyst)
+[Labs and demos for Google Cloud's training-data analyst](https://github.com/GoogleCloudPlatform/training-data-analyst)
+
+* Lab 1: [Building a Regression Model for a Financial Dataset](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/ai-for-finance/solution/aapl_regression_scikit_learn.ipynb)
 
 ## Notes
 TBA
