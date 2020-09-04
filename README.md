@@ -5,7 +5,7 @@ General repository of assignments' solutions and notes in relation to Coursera's
 ---
 
 ## Assignments
-TBA
+* [Labs and demos for Google Cloud's training-data analyst](https://github.com/GoogleCloudPlatform/training-data-analyst)
 
 ## Notes
 TBA
